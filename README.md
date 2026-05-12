@@ -2,11 +2,11 @@
 
 # Kevin · RiseofRice
 
-### **building things that belong in a terminal &nbsp;·&nbsp; Oldenburg, DE**
+#### **building things that belong in a terminal &nbsp;·&nbsp; Oldenburg, DE**
 
 ---
 
-## 👋 Hey, I'm Kevin
+### 👋 Hey, I'm Kevin
 
 Cyber Security Researcher who spends more time understanding systems
 than actually using them the way they were intended.
@@ -20,13 +20,13 @@ CEO of ghosting. Slow responses — but I will answer... eventually.
 
 ---
 
-## 🔨 Currently working on
+### 🔨 Currently working on
 
-### **[Forge](https://github.com/RiseofRice/Forge)** — actively in development, check it out.
+#### **[Forge](https://github.com/RiseofRice/Forge)** — actively in development, check it out.
 
 ---
 
-## Stack
+### Stack
 
 ### **Languages & Scripting**
 
@@ -40,7 +40,7 @@ CEO of ghosting. Slow responses — but I will answer... eventually.
 
 ---
 
-## Projects
+### Projects
 
 <table>
   <tr>
