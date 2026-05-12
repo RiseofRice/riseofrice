@@ -8,15 +8,15 @@
 
 ## 👋 Hey, I'm Kevin
 
-### Cyber Security Researcher who spends more time understanding systems
-### than actually using them the way they were intended.
+Cyber Security Researcher who spends more time understanding systems
+than actually using them the way they were intended.
 
-### When I'm not analyzing something or writing code, you'll find me
-### working out, listening to music, somewhere with a camera, or holding
-### an overpriced coffee.
+When I'm not analyzing something or writing code, you'll find me
+working out, listening to music, somewhere with a camera, or holding
+an overpriced coffee.
 
-### Occasionally I read books too. Real ones.
-### CEO of ghosting. Slow responses — but I will answer... eventually.
+Occasionally I read books too. Real ones.
+CEO of ghosting. Slow responses — but I will answer... eventually.
 
 ---
 
