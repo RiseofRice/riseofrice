@@ -65,7 +65,7 @@ CEO of ghosting. Slow responses — but I will answer... eventually.
 
 ### Stats
 
-<img src="https://streak-stats.demolab.com/?user=RiseofRice&theme=tokyonight&hide_border=true&date_format=j.%20M%5B%20Y%5D" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=riseofrice&theme=dracula&card_width=550&hide_current_streak=true" alt="GitHub Streak" /></a>
 
 ---
 
