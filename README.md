@@ -16,6 +16,7 @@ working out, listening to music, somewhere with a camera, or holding
 an overpriced coffee.
 
 Occasionally I read books too. Real ones.
+
 CEO of ghosting. Slow responses — but I will answer... eventually.
 
 ---
